@@ -2,7 +2,7 @@
 
 - Sou estudante de Engenharia de Software na Universidade católica de Brasília 📚
 - Também já finalizei o curso de Engenheuro Front-end pela EBAC 🧩
-- Desde de criança sempre fui um apaixonado pela tecnologia e pela lógica e por causa disso hoje atuo na área 💻 + 📐
+- Desde de criança sempre fui um apaixonado pela tecnologia e pela lógica presente na matemática e por causa disso hoje atuo na área 💻 + 📐
 - Posso atuar tanto no front-end como no back-end devido cursos e experiências que já tive 🧑🏾‍💻
 - Ir para academia e treinar já é parte de mim 🏋️
 - Já fez um tempo que treino minha habilidade de leitura pois ela é essencial 📖

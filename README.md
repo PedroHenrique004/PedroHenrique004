@@ -5,7 +5,6 @@
 - Desde de criança sempre fui um apaixonado pela tecnologia e pela lógica presente na matemática e por causa disso hoje atuo na área 💻 + 📐
 - Posso atuar como front-end e um pouco como back-end devido cursos e experiências que já tive 🧑🏾‍💻
 - Ir para academia e treinar já é parte de mim 🏋️
-- Já fez um tempo que treino minha habilidade de leitura pois ela é essencial 📖
 
 ## Minhas principais habilidades :
 

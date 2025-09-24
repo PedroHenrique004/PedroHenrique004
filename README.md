@@ -3,8 +3,6 @@
 - Sou estudante de Engenharia de Software na Universidade católica de Brasília 📚
 - Também já finalizei o curso de Engenheiro Front-end pela EBAC 🧩
 - Desde de criança sempre fui um apaixonado pela tecnologia e pela lógica presente na matemática e por causa disso hoje atuo na área 💻 + 📐
-- Posso atuar como front-end e um pouco como back-end devido cursos e experiências que já tive 🧑🏾‍💻
-- Ir para academia e treinar já é parte de mim 🏋️
 
 ## Minhas principais habilidades :
 
@@ -22,8 +20,6 @@
 ## Também tenho conhecimento em :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>

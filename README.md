@@ -29,12 +29,6 @@
 - Português nativo
 - Inglês nível B2 (Falante independente de nível avançado)
 
-## Meu GitHub : 
-
-<div align="center">
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique004&layout=compact&theme=tokyonight"/>
-</div>
-
 ## Meus principais projetos :
 
 - Deixarei os projetos no meu portifólio:
